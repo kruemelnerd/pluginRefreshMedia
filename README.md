@@ -4,7 +4,7 @@ README
 
 Tested with PhoneGap 2.0.0
 
-by Philipp Veit
+by Philipp
 for GreenQloud.com
 
 This PhoneGap-Plugin updates the gallerie after downloading a file in Android.
